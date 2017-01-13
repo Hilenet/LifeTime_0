@@ -1,0 +1,6 @@
+/tool
+/text/*
+!/text/000
+*/__pycache__/*
+
+!.gitkeep
